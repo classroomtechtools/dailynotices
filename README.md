@@ -20,4 +20,8 @@ Unlike other GAFE-based solutions, this one is not an add-on, nor are there plan
 
 ## Directions
 
-Step one, step two.
+* Make a copy of (this Google Form)[https://docs.google.com/forms/d/1caemGrtTrhUyiSajnLMAijmzNZ_PPFRhGWBoMwfhza0/copy]. This is the form that your users will fill out to submit notices.
+
+* Make a copy of (this Google Sheet)[https://docs.google.com/spreadsheets/d/1Vl7K57Q4elL5IVIbhPF6vw7TGETSj5GceYdqC_BOGwQ/copy]. This is the database that holds all of the data, including settings.
+
+* Make a copy of (this Google Site)[]
