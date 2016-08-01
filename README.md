@@ -24,17 +24,17 @@ This section requires a bit of attention to detail. It is highly recommended to 
 
 ### Copy the items
 
-- Make a copy of [this Google Form](https://docs.google.com/forms/d/1caemGrtTrhUyiSajnLMAijmzNZ_PPFRhGWBoMwfhza0/copy). This is the form that your users will fill out to submit notices.
+1) Make a copy of [this Google Form](https://docs.google.com/forms/d/1caemGrtTrhUyiSajnLMAijmzNZ_PPFRhGWBoMwfhza0/copy). This is the form that your users will fill out to submit notices.
 
-- Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1Vl7K57Q4elL5IVIbhPF6vw7TGETSj5GceYdqC_BOGwQ/copy). This is the database that holds all of the data, including settings.
+2) Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1Vl7K57Q4elL5IVIbhPF6vw7TGETSj5GceYdqC_BOGwQ/copy). This is the database that holds all of the data, including settings.
 
-- Join this [Google Group](https://groups.google.com/d/forum/cttdailynotices), which is required as it gives you the necessary permissions to complete the next step.
+3) Join this [Google Group](https://groups.google.com/d/forum/cttdailynotices), which is required as it gives you the necessary permissions to complete the next step.
 
-- Make a copy of [this Google Site](https://sites.google.com/site/cttdailynoticesdemo/) by clicking on the cog -> "Manage Site" -> "General" -> "Copy this site". If you unable to see the cog, this means that you have not successfully joined the group.
+4) Make a copy of [this Google Site](https://sites.google.com/site/cttdailynoticesdemo/) by clicking on the cog -> "Manage Site" -> "General" -> "Copy this site". If you unable to see the cog, this means that you have not successfully joined the group.
 
 ### Configure the doc, sheet, and site
 
-* Go to new copy of the Google Form that you made in step one, and make sure you are in editing mode. Then, click on the "Responses" tab and click on "Link form". Then choose "Existing spreadsheet" and then navigate to the new spreadsheet you made in step 2. Select that new spreadsheet.
+5) Go to new copy of the Google Form that you made in step one, and make sure you are in editing mode. Then, click on the "Responses" tab and click on "Link form". Then choose "Existing spreadsheet" and then navigate to the new spreadsheet you made in step 2. Select that new spreadsheet.
 
 * Ensure that the form is configured to record the user's username. If this step is not complete it will result in problems down the line.
 
