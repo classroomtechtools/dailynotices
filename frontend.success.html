@@ -1,0 +1,12 @@
+<a style="float:right;" href="<?= obj.editUrl ?>"><img style="width:100px;height:auto;" src="http://brainysmurf.github.io/openclipart/TzeenieWheenie-red-green-OK-not-OK-Icons-3-300px.png" />
+<figcaption>Click here to edit.</figcaption></a>
+<div>Thanks! All done! A copy of your <b><?= kind ?></b> is displayed below.</div>
+<div style="font-size:150%;margin-bottom:5px;margin-top:15px;"><strong><?= obj.section ?></strong></div>
+<ul style="font-family:georgia;font-size:14pt;">
+<?!= obj.htmlContent ?>
+</ul>
+<p>It will appear starting on <b><?= startDate ?></b> ending on <b><?= endDate ?></b>)<br /> for a total of <b><?= obj.days ?></b> days (excluding holidays and weekends).
+<? if (obj.embededUrl) { ?>
+      <p>Here is a link to your attachment: <?= obj.embededUrl ?></p>
+<? } ?>
+<p>Your Happy Daily Notices Responder<p>
