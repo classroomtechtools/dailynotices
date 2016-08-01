@@ -28,19 +28,19 @@ This section requires a bit of attention to detail. It is highly recommended to 
 
 2. Make a copy of [this Google Sheet](https://docs.google.com/spreadsheets/d/1Vl7K57Q4elL5IVIbhPF6vw7TGETSj5GceYdqC_BOGwQ/copy). This is the database that holds all of the data, including settings.
 
-3. Join this [Google Group](https://groups.google.com/d/forum/cttdailynotices), which is required as it gives you the necessary permissions to complete the next step.
+3. Join the [Google Group](https://groups.google.com/d/forum/cttdailynotices), which is required as it gives you the necessary permissions to complete the next step. All you have to do is send an email to the following address: [cttdailynotices+subscribe@googlegroups.com](cttdailynotices+subscribe@googlegroups.com). Ensure that you send it from the same address you are using to set up the system.
 
 4. Make a copy of [this Google Site](https://sites.google.com/site/cttdailynoticesdemo/) by clicking on the cog -> "Manage Site" -> "General" -> "Copy this site". If you unable to see the cog, this means that you have not successfully joined the group.
 
 ### Configure the doc, sheet, and site
 
-5. Go to new copy of the Google Form that you made in step one, and make sure you are in editing mode. Then, click on the "Responses" tab and click on "Link form". Then choose "Existing spreadsheet" and then navigate to the new spreadsheet you made in step 2. Select that new spreadsheet.
+5. Go to new copy of the Google Form that you made in step one in the previous section, and make sure you are in editing mode. Then, click on the "Responses" tab and click on "Link form". Then choose "Existing spreadsheet" and then navigate to the new spreadsheet you made in step 2 in the previous section. Select that new spreadsheet.
 
 6. Ensure that the form is configured to record the user's username. If this step is not complete it will result in problems down the line.
 
 7. Fill out dummy data in the copy of the new form you made, and then submit.
 
-8. Go to the same spreadsheet you selected above (the one that you made a copy of in step 2), and find the tab named something like "Form Responses" which will contain your dummy data.
+8. Go to the same spreadsheet you selected above (the one that you made a copy of in step 2 in the previous section), and find the tab named something like "Form Responses" which will contain your dummy data.
 
 9. Copy the two rows of header information that is found in "Daily Notices". Move over to the "Form Responses" tab with your dummy data and insert a row at row 2. There should now be space to paste the header information from the other tab, which you should do. Now ensure that there are two headers rows by going to "View" menu item and choose to "Freeze" two rows.
 
@@ -85,3 +85,5 @@ This section changes settings in the spreadsheet. Some of these will depend on y
 23. Navigate to the newly created Google site you created, and click on "Search Notices". Click the pencil to edit the page, then click the cog in the Google Gadget that appears. You will have to log in to Awesometable. Change the Google Sheet URL value to the URL of the sheet that you created yourself
 
 24. Do the exact same for the "Jump to Date" area of the site.
+
+25. Change the link for the "New Notice", by clicking on the cog, "Manage Site", and adjust the link.
