@@ -1,5 +1,5 @@
 # dailynotices
-A GAFE-based solution for publishing daily notices for your organization.
+A GAFE-based solution for publishing daily notices for your organization. Brought to you by [classroomtechtools.com](http://classroomtechtools.com)
 
 ## Description
 Every day, at a predetermined time, members of your organization receive an email containing the titles and author for that day's notices. The email, at top, contains a link to a Google Site that allows them to view the entire contents. Items that are new for that day are labeled as "New". Older items that have already appeared on previous days appear below newer items. Items authored by pre-determined accounts, for example principals, appear higher than others.
